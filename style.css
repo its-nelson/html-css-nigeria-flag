@@ -1,0 +1,34 @@
+body {
+    background-color: #E1D9D1;
+}
+
+.flag {
+    background-color: #1B7339;
+    width: 900px;
+    height: 600px;
+    position: relative;
+}
+
+.flag div {
+    background-color: #ffffff;
+    width: 300px;
+    height: 100%;
+    position: absolute;
+    left: 300px;
+}
+
+p {
+    margin: 0px;
+    text-align: center;
+    font-family: "Libre Baskerville", serif;
+    font-size: 3rem;
+    position: relative;
+    top: 240.67px;
+}
+
+footer p {
+    position: relative;
+    font-size: 16px;
+    top: 10px;
+    text-align: left;
+}
